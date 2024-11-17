@@ -21,7 +21,7 @@ class sol_1C {
                         arr[k-1] = arr[k];
                     }
                     n--;
-                    j--;
+                    i--;
                     break;
                 }
             }
